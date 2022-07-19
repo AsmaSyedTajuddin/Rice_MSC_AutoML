@@ -1,5 +1,8 @@
 # Rice_MSC_AutoML
 
+![dataset-cover](https://user-images.githubusercontent.com/100385953/179769100-21f82784-f2d7-4830-bb6f-1d34a3770cdd.jpg)
+
+
 Rice MSC Dataset
 DATASET: https://www.muratkoklu.com/datasets/
 Citation Request: See the articles for more detailed information on the data.
